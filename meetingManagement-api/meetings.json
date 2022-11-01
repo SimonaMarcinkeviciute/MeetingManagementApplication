@@ -1,0 +1,23 @@
+{
+  "8969a9f4-82b3-44da-83a0-25387040325e" : {
+    "title" : "dar vienasaaa",
+    "description" : "description2",
+    "startDate" : "2022-10-31T15:00:12.8042952",
+    "endDate" : "2022-10-31T15:30:12.8042952",
+    "category" : "HUB",
+    "type" : "LIVE",
+    "responsiblePerson" : {
+      "id" : 2,
+      "name" : "Bart",
+      "surname" : "Dickson"
+    },
+    "meetingParticipants" : [ {
+      "person" : {
+        "id" : 2,
+        "name" : "Bart",
+        "surname" : "Dickson"
+      },
+      "date" : "2022-10-31T15:08:39.9968809"
+    } ]
+  }
+}
